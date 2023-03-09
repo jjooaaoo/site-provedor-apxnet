@@ -1,0 +1,147 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-size: 1em;
+}
+a{
+	text-decoration: none !important;
+}
+h1{
+	color: #002946 !important;
+}
+body{
+	overflow-x: hidden;
+}
+#whatsapp img{
+	margin-left: 95%;
+	position: fixed;
+	border-radius: 50%;
+	width: 3em;
+	top: 90%;
+
+}
+#istagram img{
+	margin-left: 95%;
+	position: fixed;
+	border-radius: 50%;
+	width: 3em;
+	top: 82.3%;
+}
+#decoração-cabeçalho{
+	background: rgb(200, 201, 200);
+	height: 4px;
+}
+#cabeçalho{
+	min-width: 700px;
+	background: white;
+	height: 150px;
+}
+#logo{
+	margin-left: 12.4%;
+	margin-top: 3.4%;
+	width: 200px;
+}
+#navegação{
+	background: #D8D8D8;
+	border-radius: 1000px;
+	position: relative;
+	bottom: 35%;
+	margin-left: 42.3%;
+	margin-right: -5%;
+	padding: 1.1%;
+}
+#navegação a:link, a:visited{
+	color: #002946;
+	font-family: Arial, sans-serif;
+	font-size: 1.2em;
+	padding: 0% 2%;
+}
+#navegação a:hover{
+	color: white;
+	background: #002946;
+	border-radius: 1000px;
+	padding: 1.5% 2%;
+}
+#porque-escolher-apxnet{
+	min-width: 800px;
+	border: 1px solid white;
+}
+#texto-porque-escolher-apxnet{
+	text-align: center;
+	border-radius: 10px;
+	background: grey;
+	margin-left: 22%;
+	width: 25%;
+	height: 10%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	padding: 1% 1%;
+	float: left;
+}
+#texto-porque-escolher-apxnet p{
+	font-family: Arial, sans-serif;
+}
+#imagem-porque-escolher-apxnet{
+	float: right;
+}
+#uma-velocidade-que-voçe-nunca-viu{
+	background: #D8D8D8;
+	clear: both;
+}
+#foto-uma-velocidade-que-voçe-nunca-viu{
+	margin-left: 50%;
+}
+#texto-uma-velocidade-que-voçe-nunca-viu{
+	border-radius: 10px;
+	border: 1px solid grey;
+	padding: 0px 5px;
+	margin-left: 50%;
+	margin-right: 5%;
+	font-size: 2.5em;
+	font-family: Trattatello, fantasy;
+	color: grey;
+}
+#conheça-nossos-planos{
+	margin-top: 5%;
+	text-align: center;
+	font-size: 3em;
+	color: #A4A4A4;
+	font-family: Arial, sans-serif;
+}
+#planos img{
+	border-radius: 30px;
+}
+#botão-contratar{
+	background: green !important;
+	margin-top: 10%;
+	border-radius: 1000px;
+	background: red;
+	margin: 5% 25%;
+	padding: 1% 5%;
+}
+#botão-contratar a:visited, a:link{
+	color: white;
+}
+#botão-contratar h3:hover{
+	color: #E6E6E6;
+}
+#rodapé{
+	background: black;
+}
+#rodapé-logo img{
+	width: 250px;
+	background: white;
+	border-radius: 10px;
+	padding: 5px;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+#Dias-e-horários-de-atendimento{
+	border: 1px solid black;
+	font-family: Arial, sans-serif;
+	margin-left: 40%;
+}
+#rodapé-instagram img{
+	border: 1px solid red;
+	width: 50px;
+}
